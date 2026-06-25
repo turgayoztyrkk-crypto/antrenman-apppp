@@ -13,3 +13,4 @@ jobs:
           name: antrenman-apk
           path: build/app/outputs/flutter-apk/app-release.apk
           
+
